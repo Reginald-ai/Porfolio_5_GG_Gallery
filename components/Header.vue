@@ -88,7 +88,7 @@ export default {
     top: 50%;
     left: 50%;
     transform: translate(-50%, 10%);
-    background: #333333;
+    background: #f8f8f8;
     width: 94%;
     padding: 20px;
     justify-content: center;
@@ -118,7 +118,7 @@ export default {
       margin-bottom: 10px;
       position: relative;
       .nav-link {
-        color: #ffff;
+        color: #000;
         margin-bottom: 10px;
       }
     }
