@@ -88,10 +88,10 @@
           <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
             <!-- Links -->
             <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-            <p>New York, NY 10012, US</p>
-            <p>info@example.com</p>
-            <p>+ 01 234 567 88</p>
-            <p>+ 01 234 567 89</p>
+            <p>Cebu City, Visayas, Philippines</p>
+            <p>regmangubat@outlook.com</p>
+            <p>+ 63 961 054 5296</p>
+            <p>+ 63 961 054 5296</p>
           </div>
           <!-- Grid column -->
         </div>
